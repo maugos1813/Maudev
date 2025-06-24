@@ -1,0 +1,65 @@
+/* Importa Tailwind CSS v4 */
+@import "tailwindcss";
+
+/* Define tus temas con css-first en Tailwind v4 */
+@theme {
+  /* Tema tienda */
+  --color-tienda-primary:   #FFFAE5;
+  --color-tienda-secondary: #FFC300;
+  --color-tienda-accent:    #FF5733;
+  --color-tienda-dark:      #C70039;
+
+  /* Tema heladeria */
+  --color-heladeria-primary:   #FFF0F6;
+  --color-heladeria-secondary: #FFD6E8;
+  --color-heladeria-accent:    #FF69B4;
+  --color-heladeria-dark:      #C2185B;
+
+  /* Tema mascotas */
+  --color-mascotas-primary:   #E0F7FA;
+  --color-mascotas-secondary: #81D4FA;
+  --color-mascotas-accent:    #00ACC1;
+  --color-mascotas-dark:      #00796B;
+
+  /* Tema concreto */
+  --color-concreto-primary:   #E0E0E0;
+  --color-concreto-secondary: #9E9E9E;
+  --color-concreto-accent:    #424242;
+  --color-concreto-dark:      #212121;
+
+  /* Tema taller */
+  --color-taller-primary:   #ECEFF1;
+  --color-taller-secondary: #90A4AE;
+  --color-taller-accent:    #455A64;
+  --color-taller-dark:      #263238;
+
+  /* Tema abogados */
+  --color-abogados-primary:   #F5F5F5;
+  --color-abogados-secondary: #607D8B;
+  --color-abogados-accent:    #3F51B5;
+  --color-abogados-dark:      #1A237E;
+
+  /* Tema clinica */
+  --color-clinica-primary:   #E3F2FD;
+  --color-clinica-secondary: #90CAF9;
+  --color-clinica-accent:    #1976D2;
+  --color-clinica-dark:      #0D47A1;
+
+  /* Tema spa */
+  --color-spa-primary:   #F3E5F5;
+  --color-spa-secondary: #CE93D8;
+  --color-spa-accent:    #AB47BC;
+  --color-spa-dark:      #6A1B9A;
+
+  /* Tema tecnología */
+  --color-tecnologia-primary:   #E1F5FE;
+  --color-tecnologia-secondary: #81D4FA;
+  --color-tecnologia-accent:    #0288D1;
+  --color-tecnologia-dark:      #01579B;
+
+  /* Tema natural */
+  --color-natural-primary:   #F1F8E9;
+  --color-natural-secondary: #C5E1A5;
+  --color-natural-accent:    #8BC34A;
+  --color-natural-dark:      #558B2F;
+}
