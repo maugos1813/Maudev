@@ -34,7 +34,7 @@ export default function Contact() {
   };
 
   return (
-    <section className="px-6 py-24 bg-gray-100">
+    <section id="contact" className="px-6 py-24 bg-gray-100">
       <div className="max-w-3xl mx-auto text-center">
         <h2 className="mb-8 text-3xl font-semibold text-gray-800">Contacto</h2>
         <form onSubmit={onSubmit} className="space-y-6">
