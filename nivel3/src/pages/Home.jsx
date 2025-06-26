@@ -14,7 +14,7 @@ export default function Home() {
       {/* Hero */}
       <section className="min-h-[80vh] flex flex-col items-center justify-center text-center px-6 bg-gradient-to-r from-blue-50 to-blue-100">
         <h1 className="mb-6 text-5xl font-bold leading-tight text-blue-800 md:text-6xl">
-          Bienvenido a MiEmpresa
+          Página web - N3
         </h1>
         <p className="max-w-2xl mb-8 text-lg text-gray-700 md:text-xl">
           Soluciones profesionales para tu negocio. Explora nuestros servicios y conoce más sobre nosotros.
